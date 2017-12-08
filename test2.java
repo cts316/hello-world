@@ -5,5 +5,6 @@ public class test {
         for(int counter = 0; counter < 10; counter++) {
             System.out.println(counter + ": " + outputPrint);
         }
+        System.out.println(outputPrint + " length = " + outputPrint.length());
     }
 }
